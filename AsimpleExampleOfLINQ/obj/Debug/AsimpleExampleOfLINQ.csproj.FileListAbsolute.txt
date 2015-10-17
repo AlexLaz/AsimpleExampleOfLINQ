@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\AsimpleExampleOfLINQ\AsimpleExampleOfLINQ\bin\Debug\AsimpleExampleOfLINQ.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\AsimpleExampleOfLINQ\AsimpleExampleOfLINQ\bin\Debug\AsimpleExampleOfLINQ.exe
+c:\users\alex\documents\visual studio 2013\Projects\AsimpleExampleOfLINQ\AsimpleExampleOfLINQ\bin\Debug\AsimpleExampleOfLINQ.pdb
+c:\users\alex\documents\visual studio 2013\Projects\AsimpleExampleOfLINQ\AsimpleExampleOfLINQ\obj\Debug\AsimpleExampleOfLINQ.exe
+c:\users\alex\documents\visual studio 2013\Projects\AsimpleExampleOfLINQ\AsimpleExampleOfLINQ\obj\Debug\AsimpleExampleOfLINQ.pdb
